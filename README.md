@@ -45,19 +45,8 @@
 #### **Portfolio Highlights**
 1. **E-commerce Website** - Full-fledged e-commerce platform with user authentication, product catalog, and checkout (React, Node.js, MongoDB).
 2. **Social Media Platform** - User interactions, post creation, and profile management with RESTful API (Express, MongoDB).
-   
-
-
 
   </div>
-
-
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeev Ranjan&show_icons=true&theme=radical&hide_border=true" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev Ranjan&layout=compact&theme=radical&hide_border=true&langs_count=5&hide=c" width="400px">
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge" />
 </p>
@@ -76,6 +65,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajeev Ranjan&style=flat-square&color=blue" alt="Rajeev Ranjan Profile Views"/>
-</p>
