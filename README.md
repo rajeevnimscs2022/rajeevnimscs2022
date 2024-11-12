@@ -49,42 +49,33 @@
 
 
 
-
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/contributorAnalytics">
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/contributorAnalytics">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-
   </div>
 
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitSingh&show_icons=true&theme=radical&hide_border=true" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh&layout=compact&theme=radical&hide_border=true&langs_count=5&hide=c" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeev Ranjan&show_icons=true&theme=radical&hide_border=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev Ranjan&layout=compact&theme=radical&hide_border=true&langs_count=5&hide=c" width="400px">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitSingh&theme=radical&hide_border=true" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeev Ranjan&theme=radical&hide_border=true" width="400px">
 </p>
 
 ---
 
 ### 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-singh4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://x.com/rohit_singh43" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:rohit@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://iamrohitsingh.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4B0082?logo=About.me&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/rajeev-ranjan-297417275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:rajeev663257912702@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitSingh&style=flat-square&color=blue" alt="Rohit Singh Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rajeev Ranjan&style=flat-square&color=blue" alt="Rajeev Ranjan Profile Views"/>
 </p>
