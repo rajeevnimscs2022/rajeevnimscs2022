@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=32CD32&width=435&lines=Building+great+web+experiences+with+MERN+stack;Coding+my+way+through+Java+and+DSA;Lifelong+learner+and+tech+enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rajeev Ranjan"><img src="https://img.shields.io/github/followers/Rajeev Ranjan?label=Follow%20Me&style=social" /></a>
-</p>
-
-
-
 ### 🚀 **About Me**
 - 🌱 Currently advancing in **Java, DSA, and MERN Stack** skills
 - 🔍 Exploring **Java development** with DSA Fundamentals
