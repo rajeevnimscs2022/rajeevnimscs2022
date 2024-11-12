@@ -8,7 +8,7 @@
 ### 🚀 **About Me**
 - 🌱 Currently advancing in **Java, DSA, and MERN Stack** skills
 - 🔍 Exploring **Java development** with DSA Fundamentals
-- 👨‍💻 Enjoy working on full-stack projects and solving real-world problems
+- 👨‍💻 Enjoy working on full-stack development projects and solving real-world problems
 
 ---
 
