@@ -48,10 +48,7 @@
 
   </div>
 <p>
-  <img src="https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeev Ranjan&theme=radical&hide_border=true" width="400px">
+  <img src="https://img.shields.io/badge/Java-80%25-brightgreen?style=for-the-badge" />
 </p>
 
 ---
